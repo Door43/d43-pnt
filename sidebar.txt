@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pnt:home|Door43 (pnt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pnt|d43-pnt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pnt/archive/master.zip|d43-pnt.zip]]
+
+**Recent Changes**
+{{changes>ns = pnt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pnt|Ethnologue data]]
+
